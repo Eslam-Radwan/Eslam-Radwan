@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eslam Radwan</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **Be The Best**
+- 🔭 I’m currently working on **Being The Best**
 
 - 🌱 I’m currently learning **C# and Python**
 
